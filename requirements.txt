@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+google-genai
+TTS
+faster-whisper
+pydantic
+python-multipart
+aiofiles
+httpx
